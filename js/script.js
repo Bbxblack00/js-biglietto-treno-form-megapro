@@ -2,7 +2,7 @@ console.log('hello');
 var generaBtn = document.getElementById('genera');
 var annullaBtn = document.getElementById('annulla');
 
-generaBtn.addEventListener('click', funtion()
+generaBtn.addEventsListener('clik', funtion()
 {
   var name = document.getElementById('name').value;
   // console.dir(name.value);
